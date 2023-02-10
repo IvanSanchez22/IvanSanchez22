@@ -11,7 +11,7 @@ conocimientos y avanzar en mi carrera profesional dentro del sector tecnológico
 
 ### Dónde contactarme
 
-- [LinkedIn](www.linkedin.com/in/Iván-Sánchez22)
+- [LinkedIn](https://www.linkedin.com/in/Iván-Sánchez22)
 
 
 

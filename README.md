@@ -1,16 +1,17 @@
-### Hi there 👋
+### Holaa 👋
 
 <!--
-**IvanSanchez22/IvanSanchez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IvanSanchez22/IvanSanchez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería del Software de último año con experiencia en metodologías
+ágiles de programación. He participado en proyectos de construcción de aplicaciones
+web y móviles.Tengo la capacidad de trabajar tanto en equipo como individualmente y
+resolver problemas técnicos de manera eficiente. Busco oportunidades para aplicar mis
+conocimientos y avanzar en mi carrera profesional dentro del sector tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dónde contactarme
+
+- [LinkedIn](www.linkedin.com/in/Iván-Sánchez22)
+
+
+
